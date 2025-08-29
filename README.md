@@ -2,15 +2,16 @@
 [![Next.js](https://img.shields.io/badge/Next.js-18.0-green.svg)](https://www.next.jslang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-3.8+-yellow.svg)](https://www.node.jslang.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-brown.svg)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-4.6-blue.svg)](https://www.reactlang.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-12.1-voilet.svg)](https://www.html5lang.org/)
 [![TalwindCSS](https://img.shields.io/badge/TalwindCSS-8.2-pink.svg)](https://www.talwindcsslang.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-18.0-green.svg)](https://www.next.jslang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-3.8+-yellow.svg)](https://www.node.jslang.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-brown.svg)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-4.6-blue.svg)](https://www.reactlang.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-12.1-voilet.svg)](https://www.html5lang.org/)
-[![TalwindCSS](https://img.shields.io/badge/TalwindCSS-8.2-pink.svg)](https://www.talwindcsslang.org/)
+[![Python](https://img.shields.io/badge/Python-3.8+-orange.svg)](https://www.Pythonlang.org/)
+[![Docker](https://img.shields.io/badge/Node.js-1.2+-yellow.svg)](https://www.Dockerlang.org/)
+[![Bert](https://img.shields.io/badge/Node.js-2.5+-pink.svg)](https://www.Bertlang.org/)
+[![Ether.js](https://img.shields.io/badge/Ether.js-1.0+-red.svg)](https://www.Ether.jslang.org/)
+[![Github Actions](https://img.shields.io/badge/GithubAction-3.2+-Skyblue.svg)](https://www.GithubActionslang.org/)
+
+
+
+
 
 **AI-Powered Decentralized Reputation Framework for Web3 Fundraising**
 
