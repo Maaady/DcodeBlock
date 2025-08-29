@@ -1,5 +1,9 @@
 
-<img width="276" height="71" alt="image" src="https://github.com/user-attachments/assets/cb1f8531-efe2-43d8-822d-1e2a2c978ec1" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb1f8531-efe2-43d8-822d-1e2a2c978ec1" 
+       alt="TDC Matchmaker Banner" 
+       width="276" height="71" />
+</p>
 
 [![Next.js](https://img.shields.io/badge/Next.js-18.0-green.svg)](https://www.next.jslang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-3.8+-yellow.svg)](https://www.node.jslang.org/)
