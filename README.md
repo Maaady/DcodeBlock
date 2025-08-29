@@ -7,7 +7,7 @@
 
 [![Next.js](https://img.shields.io/badge/Next.js-18.0-green.svg)](https://www.next.jslang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-3.8+-yellow.svg)](https://www.node.jslang.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-brown.svg)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.2-brown.svg)](https://www.typescriptlang.org/)
 [![TalwindCSS](https://img.shields.io/badge/TalwindCSS-8.2-pink.svg)](https://www.talwindcsslang.org/)
 [![Python](https://img.shields.io/badge/Python-3.8+-orange.svg)](https://www.Pythonlang.org/)
 [![Docker](https://img.shields.io/badge/Node.js-1.2+-yellow.svg)](https://www.Dockerlang.org/)
