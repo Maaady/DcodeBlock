@@ -11,6 +11,7 @@
 [![React](https://img.shields.io/badge/React-4.6-blue.svg)](https://www.reactlang.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-12.1-voilet.svg)](https://www.html5lang.org/)
 [![TalwindCSS](https://img.shields.io/badge/TalwindCSS-8.2-pink.svg)](https://www.talwindcsslang.org/)
+
 **AI-Powered Decentralized Reputation Framework for Web3 Fundraising**
 
 ---
