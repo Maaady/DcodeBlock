@@ -1,4 +1,4 @@
-
+# DcodeBlock
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cb1f8531-efe2-43d8-822d-1e2a2c978ec1" 
        alt="TDC Matchmaker Banner" 
@@ -17,7 +17,7 @@
 
 
 
-# DcodeBlock
+
 **AI-Powered Decentralized Reputation Framework for Web3 Fundraising**
 
 ---
