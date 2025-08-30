@@ -1,10 +1,4 @@
 # DcodeBlock
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cb1f8531-efe2-43d8-822d-1e2a2c978ec1" 
-       alt="TDC Matchmaker Banner" 
-       width="350" height="100" />
-</p>
-
 [![Next.js](https://img.shields.io/badge/Next.js-18.0-green.svg)](https://www.next.jslang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-3.8+-yellow.svg)](https://www.node.jslang.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.2-brown.svg)](https://www.typescriptlang.org/)
@@ -15,8 +9,11 @@
 [![Ether.js](https://img.shields.io/badge/Ether.js-1.0+-red.svg)](https://www.Ether.jslang.org/)
 [![Github Actions](https://img.shields.io/badge/GithubAction-3.2+-Skyblue.svg)](https://www.GithubActionslang.org/)
 
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb1f8531-efe2-43d8-822d-1e2a2c978ec1" 
+       alt="TDC Matchmaker Banner" 
+       width="350" height="100" />
+</p>
 
 **AI-Powered Decentralized Reputation Framework for Web3 Fundraising**
 
